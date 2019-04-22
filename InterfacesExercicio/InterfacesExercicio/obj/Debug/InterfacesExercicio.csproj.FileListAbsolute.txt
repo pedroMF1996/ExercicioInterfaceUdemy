@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\InterfacesExercicio.exe
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\InterfacesExercicio.pdb
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\InterfacesExercicio.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\InterfacesExercicio.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\InterfacesExercicio.exe
+C:\Users\pmfrp\RiderProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\InterfacesExercicio.pdb
